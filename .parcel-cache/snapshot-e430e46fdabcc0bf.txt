@@ -1,5 +1,5 @@
-3663
-59C:\Meus Projetos\Contagem Para Meu Aniversario\package.json134032964011247969 0
+3667
+59C:\Meus Projetos\Contagem Para Meu Aniversario\package.json134033000096570382 0
 101C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\caniuse-lite\data\features\customevent.js134032961023478490 0
 109C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\@swc\helpers\_\_class_static_private_field_update134032960983720412 1
 103C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\caniuse-lite\data\features\localecompare.js134032961079521462 0
@@ -28,7 +28,7 @@
 107C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\caniuse-lite\data\features\css-rebeccapurple.js134032961017747376 0
 82C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\react-refresh\babel.js134032960539086671 0
 89C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\@parcel\profiler\src\types.js134032960705164991 0
-51C:\Meus Projetos\Contagem Para Meu Aniversario\dist134032980324526209 1
+51C:\Meus Projetos\Contagem Para Meu Aniversario\dist134033000399380624 1
 107C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\@swc\helpers\_\_class_private_field_destructure134032960975752800 1
 67C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\globals134032960638442719 1
 77C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\chokidar\index.js134032960640196415 0
@@ -2814,6 +2814,7 @@
 116C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0134032960796540825 1
 98C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\@swc\helpers\esm\_non_iterable_rest.js134032960930830493 0
 100C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\@swc\helpers\esm\_non_iterable_spread.js134032960931513329 0
+94C:\Meus Projetos\Contagem Para Meu Aniversario\dist\Contagem Para Meu Aniversario.31fcd723.css134033000398482280 0
 80C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\@parcel\workers\test134032960819719410 1
 107C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\@swc\helpers\esm\_object_destructuring_empty.js134032960931563311 0
 114C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\@parcel\workers\test\integration\workerfarm\console.js134032960678760525 0
@@ -3226,6 +3227,7 @@
 94C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\@parcel\runtime-service-worker\lib134032960550296726 1
 98C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\@parcel\runtime-service-worker\LICENSE134032960540593902 0
 103C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\@parcel\runtime-service-worker\package.json134032960598848726 0
+97C:\Meus Projetos\Contagem Para Meu Aniversario\dist\Contagem Para Meu Aniversario.d600f629.js.map134033000399116188 0
 94C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\@parcel\runtime-service-worker\src134032960567277409 1
 118C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\@parcel\runtime-service-worker\src\ServiceWorkerRuntime.js134032960576770659 0
 83C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\@parcel\runtime-rsc\lib134032960552601809 1
@@ -3651,11 +3653,13 @@
 73C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\.bin\sass.ps1134032961161955632 0
 91C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\.bin\update-browserslist-db.cmd134032961161955632 0
 91C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\.bin\update-browserslist-db.ps1134032961161955632 0
+98C:\Meus Projetos\Contagem Para Meu Aniversario\dist\Contagem Para Meu Aniversario.31fcd723.css.map134033000399116188 0
 93C:\Meus Projetos\Contagem Para Meu Aniversario\dist\Contagem Para Meu Aniversario.8caef201.js134032980324414603 0
+93C:\Meus Projetos\Contagem Para Meu Aniversario\dist\Contagem Para Meu Aniversario.d600f629.js134033000398482280 0
 93C:\Meus Projetos\Contagem Para Meu Aniversario\dist\Contagem Para Meu Aniversario.f75de5e1.js134032978912958629 0
 97C:\Meus Projetos\Contagem Para Meu Aniversario\dist\Contagem Para Meu Aniversario.f75de5e1.js.map134032978913379348 0
-62C:\Meus Projetos\Contagem Para Meu Aniversario\dist\index.html134032980324414603 0
-84C:\Meus Projetos\Contagem Para Meu Aniversario\dist\marca do sacrificio.49986f1f.jpg134032980323998110 0
+62C:\Meus Projetos\Contagem Para Meu Aniversario\dist\index.html134033000398482280 0
+84C:\Meus Projetos\Contagem Para Meu Aniversario\dist\marca do sacrificio.49986f1f.jpg134033000397936847 0
 59C:\Meus Projetos\Contagem Para Meu Aniversario\dist\scripts134032978913379348 1
 58C:\Meus Projetos\Contagem Para Meu Aniversario\dist\styles134032979293513577 1
 67C:\Meus Projetos\Contagem Para Meu Aniversario\dist\styles\main.css134032979292913023 0
