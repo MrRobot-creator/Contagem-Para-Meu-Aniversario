@@ -6,7 +6,7 @@
 64C:\Meus Projetos\Contagem Para Meu Aniversario\package-lock.json134032964012434771 0
 92C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\@swc\helpers\_\_set\package.json134032961000997786 0
 82C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\json5\lib\unicode.d.ts134032960730381644 0
-57C:\Meus Projetos\Contagem Para Meu Aniversario\.gitignore134032953625792056 0
+57C:\Meus Projetos\Contagem Para Meu Aniversario\.gitignore134032983082204609 0
 106C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\caniuse-lite\data\features\speech-synthesis.js134032961131326890 0
 81C:\Meus Projetos\Contagem Para Meu Aniversario\src\images\marca do sacrificio.jpg134032971303731982 0
 93C:\Meus Projetos\Contagem Para Meu Aniversario\node_modules\node-addon-api\node_addon_api.gyp134032960534670773 0
